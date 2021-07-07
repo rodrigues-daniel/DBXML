@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<Produtos>
+  <Produto>
+    <Codigo>2456</Codigo>
+    <Nome>TESTE</Nome>
+    <Preco>1,25</Preco>
+    <Estoque>100</Estoque>
+    <Descricao>teste</Descricao>
+  </Produto>
+  <Produto>
+    <Codigo>123</Codigo>
+    <Nome>FAFSF</Nome>
+    <Preco>4.5</Preco>
+    <Estoque />
+    <Descricao>dgsdgdsgsdgsdgsdg</Descricao>
+  </Produto>
+  <Produto>
+    <Codigo>123</Codigo>
+    <Nome>FAFSF</Nome>
+    <Preco>4.5</Preco>
+    <Estoque>4</Estoque>
+    <Descricao>dgsdgdsgsdgsdgsdg</Descricao>
+  </Produto>
+</Produtos>
